@@ -1329,6 +1329,11 @@ h1, h2, h3, h4, h5,
 .bg-light {
   background-color: #f6f5f5 !important; }
 
+.post-entry .img-fluid {
+  height: 15px!important;
+  object-fit: cover;
+}
+
 .post-entry-1 {
   border: 2px solid #3b4eda;
   background: #fff; }
